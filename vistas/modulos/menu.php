@@ -19,6 +19,12 @@
             </a>
           </li>
           <li class="nav-item">
+            <a href="requisitos" class="nav-link">
+              <i class="nav-icon fas fa-circle"></i>
+              <p>Requisitos Hardware</p>
+            </a>
+          </li>
+          <li class="nav-item">
             <a href="elemento" class="nav-link">
               <i class="nav-icon fas fa-edit"></i>
               <p>elemento</p>

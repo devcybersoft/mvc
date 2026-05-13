@@ -29,6 +29,7 @@ include "modulos/menu.php";
 if (isset($_GET["fase"]))
           {
             if ($_GET["fase"] == "inicio" ||
+                $_GET["fase"] == "requisitos"||
                 $_GET["fase"] == "elemento")
               {
                 include "modulos/".$_GET["fase"].".php";
